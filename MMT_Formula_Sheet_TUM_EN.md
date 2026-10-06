@@ -1,6 +1,7 @@
 # Formula Sheet: MMT Admission Test (M.Sc. Management & Technology, TUM)
 
 **As of:** 06 Oct 2026, preparation for the make-up date on 07 Oct 2026
+
 **Based on:** official TUM information (statutes, "How does the assessment procedure work WS 26/27") and test-taker reports in the WiWi-TReFF thread "MMT TUM neuer Eignungstest WS 26/27"
 
 German terms are given in parentheses where the test may use them.

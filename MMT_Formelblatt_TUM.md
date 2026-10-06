@@ -1,6 +1,7 @@
 # Formelblatt: MMT-Eignungstest (M.Sc. Management & Technology, TUM)
 
 **Stand:** 06.10.2026, Vorbereitung auf den Nachtermin am 07.10.2026
+
 **Grundlage:** offizielle TUM-Angaben (Satzung, „How does the assessment procedure work WS 26/27") und Erfahrungsberichte im WiWi-TReFF-Thread „MMT TUM neuer Eignungstest WS 26/27"
 
 ---
